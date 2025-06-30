@@ -6,7 +6,7 @@ const LandingPage = () => {
   return (
     <div className="w-full h-screen overflow-hidden">
       <div className="flex justify-center items-center min-h-screen ">
-        <div className="flex flex-col items-center p-8 rounded shadow-md">
+        <div className="flex flex-col items-center p-8 rounded">
           <BookOpen className="w-16 h-16 text-blue-600 mb-4 animate-bounce" />
 
           <h1 className="text-2xl font-bold text-center mb-6">
